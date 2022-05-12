@@ -11,3 +11,8 @@ source_metadata:
       parent: Guru Yoga
 created_at: '2022-03-01T02:23:59.927599'
 last_modified_at: '2022-03-01T02:23:59.927602'
+statistics:
+  total_words: 1094
+  total_non_words: 187
+quality:
+  non_words_ratio: 0.17
